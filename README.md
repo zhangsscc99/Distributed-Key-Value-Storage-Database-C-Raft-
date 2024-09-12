@@ -1,16 +1,5 @@
 # KVstorageBaseRaft-cpp
 
-本项目为：[【代码随想录知识星球】](https://www.programmercarl.com/other/project_fenbushi.html)项目分享-基于Raft的k-v存储数据库。 
-
-* [1、项目背景，项目难点，简历写法，常见问题](https://t.zsxq.com/G5XU8) 
-* [2、raft算法主要概念和主要流程](https://t.zsxq.com/J0E3r) 
-* [3、raft算法主要流程函数实现](https://t.zsxq.com/A3Kng)
-* [4、raft重点辅助函数讲解及剩余部分](https://t.zsxq.com/oUBJc) 
-* [5、项目运行](https://t.zsxq.com/oUBJc) 
-* [6、剩余部分，辅助功能](https://t.zsxq.com/NLH6x)
-* [7、常见问题及解答](https://t.zsxq.com/9jREN)
-
-> notice：本项目的目的是学习Raft的原理，并实现一个简单的k-v存储数据库。因此并不适用于生产环境。
 
 ## 分支说明
 - main：最新内容，已经实现一个简单的clerk
@@ -103,20 +92,5 @@ raftCoreRun -n 3 -f test.conf
 - [ ] 代码精简优化
 - [x] code format
 - [ ] 代码解读 maybe
-
-## 贡献者列表
-
-<!-- readme: contributors -start -->
-<!-- readme: contributors -end -->
-
-## Star History
-
-<a href="https://star-history.com/#youngyangyang04/KVstorageBaseRaft-cpp&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=youngyangyang04/KVstorageBaseRaft-cpp&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=youngyangyang04/KVstorageBaseRaft-cpp&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=youngyangyang04/KVstorageBaseRaft-cpp&type=Date" />
-  </picture>
-</a>
 
 
