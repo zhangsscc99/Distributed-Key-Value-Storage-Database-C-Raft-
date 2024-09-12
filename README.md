@@ -20,7 +20,6 @@
 - protoc，本地版本为3.12.4，ubuntu22使用`sudo apt-get install protobuf-compiler libprotobuf-dev`安装默认就是这个版本
 - boost，`sudo apt-get install libboost-dev libboost-test-dev libboost-all-dev`
 - muduo,https://blog.csdn.net/QIANGWEIYUAN/article/details/89023980
-> 如果库安装编译本仓库的时候有错误或者需要确认版本信息，可以在issue页面查看其他人遇到的问题和分享： [链接](https://github.com/youngyangyang04/KVstorageBaseRaft-cpp/issues)
 
 ### 2.编译启动
 #### 使用rpc
